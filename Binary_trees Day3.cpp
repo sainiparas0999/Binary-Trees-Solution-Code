@@ -151,7 +151,7 @@ Q3)-: TransForm to SumTree ------->>>>>>
 
     Q4)-: Binary Tree to DLLO(Doubly Linked List)
 
-    Node* head = NULL;
+       Node* head = NULL;
     Node* prev = NULL;
     Node * bToDLL(Node *root)
     {
